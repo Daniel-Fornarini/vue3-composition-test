@@ -39,8 +39,6 @@
     }
   ];
 
-  let a = ref(0);
-
   const value: any[] = reactive([
     {
       user: 'Daniel',
